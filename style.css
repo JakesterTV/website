@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
 /* ─────────────────────────────────────────────────────────────
    Base & Reset
 ────────────────────────────────────────────────────────────── */
@@ -38,8 +40,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Load Inter from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 
 img, svg { display: block; }
 a { color: inherit; text-decoration: none; }
